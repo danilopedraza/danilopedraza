@@ -4,7 +4,6 @@ Things I like:
 - Free software
 - Lifting weights
 - Yapping about anything
-- Drinking (everything above *feels* better with this)
 - Reading
 
 I'm currently captivated by Rust, but I'm not very picky on what I use.
