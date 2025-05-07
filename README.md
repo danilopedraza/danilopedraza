@@ -10,6 +10,7 @@ I'm currently captivated by Rust, but I'm not very picky on what I use.
 
 That's a lie, these are my preferences:
 
+- Static analysis FTW
 - Declarative >>>>>>>>>>> Imperative
 - Obsessive automation >>>> "iT doEsN't WoRtH iT"
 - Copyleft >>>>>>> Permissive
