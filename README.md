@@ -3,6 +3,7 @@ Things I like:
 - Programming (duh)
 - Free software
 - Lifting weights
+- [Electronic music](https://soundcloud.com/eternangustia/sets)
 - Yapping about anything
 - Reading
 
